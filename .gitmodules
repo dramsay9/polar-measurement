@@ -1,0 +1,3 @@
+[submodule "pythonAudioMeasurements"]
+	path = pythonAudioMeasurements
+	url = https://github.com/dramsay9/pythonAudioMeasurements.git

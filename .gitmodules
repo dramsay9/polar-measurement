@@ -1,3 +1,6 @@
 [submodule "pythonAudioMeasurements"]
 	path = pythonAudioMeasurements
 	url = https://github.com/dramsay9/pythonAudioMeasurements.git
+[submodule "pyAudioFilter"]
+	path = pyAudioFilter
+	url = https://github.com/TonyTerrasa/pyAudioFilter.git

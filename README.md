@@ -25,6 +25,7 @@ PYTHONPATH
 
 ```
 $ ln -s /path_to_polar-measurement/pythonAudioMeasurements /path_to_virtualenv/lib/python3.6/site-packages/
+$ ln -s /path_to_polar-measurement/pyAudioFilter /path_to_virtualenv/lib/python3.6/site-packages/
 ```
 
 You should now be able to use the packages. You can test by running the following without errors

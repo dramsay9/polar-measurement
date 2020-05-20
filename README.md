@@ -3,6 +3,8 @@ title: polar-measurement
 author: Tony Terrasa, David Ramsay
 ---
 
+# polar-measurement
+
 This module contains scripts for taking polar measurements as well as 
 well as submodules for creating and manipulating microphone arrays 
 and optimizing filters to achieve a desired response in `tensorflow`

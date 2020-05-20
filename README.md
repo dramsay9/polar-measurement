@@ -11,8 +11,6 @@ and optimizing filters to achieve a desired response in `tensorflow`
 
 
 
-
-
 # Installation
 
 This package requires python
@@ -158,3 +156,7 @@ In this case `pd_final` is now a `polarData` representation of the
 resulting microphone array. 
 
 A full version of this script can be found in the `sample_optimization.py`
+
+
+# Future Work
+- use collected baseline anechoic chamber measurements to better mic response fidelity
